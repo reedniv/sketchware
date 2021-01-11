@@ -1,4 +1,5 @@
-#how to use :
+#statusbar
+**how to use :**
 
 ***onCreate*** you can add below
 
