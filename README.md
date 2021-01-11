@@ -2,7 +2,10 @@
 this is a repository to help many users sketchware or android developers
 
 
+
 **how to use :**
+
+*onCreate* you can add below 
 
 /* Visibility ActionBar */
 
