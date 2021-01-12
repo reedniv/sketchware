@@ -5,13 +5,13 @@
 </p>
 
 
-# sketchware
+# Sketchware
 this is a repository to help many users sketchware or android developers
 
 
 
 
-# Topic
+** Topic :**
 1. <a href="https://github.com/reedniv/sketchware/tree/main/src/main#statusbar">statusbar</a>
 
 
