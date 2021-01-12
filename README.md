@@ -14,5 +14,6 @@ this is a repository to help many users sketchware or android developers
 
 
 
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Freedniv%2Fsketchware.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Freedniv%2Fsketchware?ref=badge_large)
+<p align="center">
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Freedniv%2Fsketchware?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Freedniv%2Fsketchware.svg?type=large"/></a>
+</p>
