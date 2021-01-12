@@ -11,3 +11,8 @@ this is a repository to help many users sketchware or android developers
 
 **Topic :**
 1. <a href="https://github.com/reedniv/sketchware/tree/main/src/main#statusbar">statusbar</a>
+
+
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Freedniv%2Fsketchware.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Freedniv%2Fsketchware?ref=badge_large)
